@@ -1,8 +1,8 @@
 {
   "name": "template",
-  "displayName": "template",
-  "remoteIP": "192.168.86.39",
+  "displayName": "Dynasty Daddy",
+  "remoteIP": "192.168.50.248",
   "samples": ["Mini", "FetchSample", "ActionSample", "Live/Video", "Live/Podcast", "TradeSample"],
   "selectedSample": 0,
-  "headerOptions": { "useLeagueSelector": false }
+  "headerOptions": { "useLeagueSelector": true }
 }

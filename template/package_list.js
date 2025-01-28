@@ -10,5 +10,7 @@ import 'he';
 import 'moment-timezone';
 import 'react';
 import 'react-native';
+import 'react-native-chart-kit';
+import 'react-native-element-dropdown';
 import 'react-native-svg';
 import 'react-native-webview';

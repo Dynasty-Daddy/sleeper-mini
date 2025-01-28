@@ -101,3 +101,9 @@ Try restarting the phone that Sleeper is running on. Also stop and restart the p
 
 ### How do I submit my mini?
 You can run `yarn build-mini` to generate a .zip file containing all of your source code. Please contact us and send this file over when you are ready to release. In the future, this process will be automated.
+
+
+## Dynasty Daddy Notes
+
+IP: 192.168.50.107:9000
+
